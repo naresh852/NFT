@@ -1,0 +1,24 @@
+https://faucets.chain.link/
+http://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js
+https://github.com/nibbstack/erc721
+https://ipfs.io/#install
+
+
+
+Here are some of the websites that make part of my NFT toolbox. All of them have a free version.
+
+https://dappradar.com/nft
+
+https://icy.tools/
+
+https://rarity.tools/
+
+https://moby.gg/
+
+https://beta.traitsniper.com/
+
+https://raritysniffer.com/
+
+https://golom.io/
+
+Rarity sniper Discord channel can also be quite useful.
